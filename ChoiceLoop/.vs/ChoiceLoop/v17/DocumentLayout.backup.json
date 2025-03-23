@@ -42,9 +42,9 @@
               "Title": "ForEx1.cpp",
               "DocumentMoniker": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\ForEx1.cpp",
               "RelativeDocumentMoniker": "ChoiceLoop\\ForEx1.cpp",
-              "ToolTip": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\ForEx1.cpp*",
-              "RelativeToolTip": "ChoiceLoop\\ForEx1.cpp*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\cplusworks\\ChoiceLoop\\ChoiceLoop\\ForEx1.cpp",
+              "RelativeToolTip": "ChoiceLoop\\ForEx1.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-23T01:43:26.225Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "ChoiceLoop\\KeyRepeat.cpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-23T01:27:53.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T01:27:53.501Z"
             },
             {
               "$type": "Document",
