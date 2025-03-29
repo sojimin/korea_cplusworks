@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\Pointer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89349254-FD52-43E5-A228-8FCD9DD16DF5}|Pointer\\Pointer.vcxproj|C:\\cplusworks\\Pointer\\Pointer\\CallByRef.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89349254-FD52-43E5-A228-8FCD9DD16DF5}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\CallByRef.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89349254-FD52-43E5-A228-8FCD9DD16DF5}|Pointer\\Pointer.vcxproj|C:\\cplusworks\\Pointer\\Pointer\\PointerArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89349254-FD52-43E5-A228-8FCD9DD16DF5}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\PointerArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89349254-FD52-43E5-A228-8FCD9DD16DF5}|Pointer\\Pointer.vcxproj|C:\\cplusworks\\Pointer\\Pointer\\PointerInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89349254-FD52-43E5-A228-8FCD9DD16DF5}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\PointerInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CallByRef.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Pointer\\Pointer\\CallByRef.cpp",
+              "RelativeDocumentMoniker": "Pointer\\CallByRef.cpp",
+              "ToolTip": "C:\\cplusworks\\Pointer\\Pointer\\CallByRef.cpp",
+              "RelativeToolTip": "Pointer\\CallByRef.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-29T02:43:15.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointerArray.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Pointer\\Pointer\\PointerArray.cpp",
+              "RelativeDocumentMoniker": "Pointer\\PointerArray.cpp",
+              "ToolTip": "C:\\cplusworks\\Pointer\\Pointer\\PointerArray.cpp",
+              "RelativeToolTip": "Pointer\\PointerArray.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-29T02:32:25.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PointerInt.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Pointer\\Pointer\\PointerInt.cpp",
+              "RelativeDocumentMoniker": "Pointer\\PointerInt.cpp",
+              "ToolTip": "C:\\cplusworks\\Pointer\\Pointer\\PointerInt.cpp",
+              "RelativeToolTip": "Pointer\\PointerInt.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-29T02:18:51.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
