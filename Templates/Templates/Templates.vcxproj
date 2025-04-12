@@ -127,11 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AutoType.cpp" />
     <ClCompile Include="BankAccount.cpp" />
+    <ClCompile Include="MapEx1.cpp" />
     <ClCompile Include="TemplateEx1.cpp" />
     <ClCompile Include="TemplateEx2.cpp" />
     <ClCompile Include="VectorEx1.cpp" />
     <ClCompile Include="VectorEx2.cpp" />
+    <ClCompile Include="VectorEX3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

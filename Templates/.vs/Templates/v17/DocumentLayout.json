@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\cplusworks\\Templates\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F9F6B638-0D6E-462C-B3C9-D0EBDC9D6D27}|Templates\\Templates.vcxproj|C:\\cplusworks\\Templates\\Templates\\AutoType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9F6B638-0D6E-462C-B3C9-D0EBDC9D6D27}|Templates\\Templates.vcxproj|solutionrelative:Templates\\AutoType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F6B638-0D6E-462C-B3C9-D0EBDC9D6D27}|Templates\\Templates.vcxproj|C:\\cplusworks\\Templates\\Templates\\MapEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9F6B638-0D6E-462C-B3C9-D0EBDC9D6D27}|Templates\\Templates.vcxproj|solutionrelative:Templates\\MapEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F6B638-0D6E-462C-B3C9-D0EBDC9D6D27}|Templates\\Templates.vcxproj|C:\\cplusworks\\Templates\\Templates\\VectorEX3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9F6B638-0D6E-462C-B3C9-D0EBDC9D6D27}|Templates\\Templates.vcxproj|solutionrelative:Templates\\VectorEX3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9F6B638-0D6E-462C-B3C9-D0EBDC9D6D27}|Templates\\Templates.vcxproj|C:\\cplusworks\\Templates\\Templates\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F9F6B638-0D6E-462C-B3C9-D0EBDC9D6D27}|Templates\\Templates.vcxproj|solutionrelative:Templates\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,19 +47,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AutoType.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Templates\\Templates\\AutoType.cpp",
+              "RelativeDocumentMoniker": "Templates\\AutoType.cpp",
+              "ToolTip": "C:\\cplusworks\\Templates\\Templates\\AutoType.cpp",
+              "RelativeToolTip": "Templates\\AutoType.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T01:43:54.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapEx1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Templates\\Templates\\MapEx1.cpp",
+              "RelativeDocumentMoniker": "Templates\\MapEx1.cpp",
+              "ToolTip": "C:\\cplusworks\\Templates\\Templates\\MapEx1.cpp",
+              "RelativeToolTip": "Templates\\MapEx1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T01:25:23.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VectorEX3.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Templates\\Templates\\VectorEX3.cpp",
+              "RelativeDocumentMoniker": "Templates\\VectorEX3.cpp",
+              "ToolTip": "C:\\cplusworks\\Templates\\Templates\\VectorEX3.cpp",
+              "RelativeToolTip": "Templates\\VectorEX3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T01:04:13.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BankAccount.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Templates\\Templates\\BankAccount.cpp",
               "RelativeDocumentMoniker": "Templates\\BankAccount.cpp",
               "ToolTip": "C:\\cplusworks\\Templates\\Templates\\BankAccount.cpp",
               "RelativeToolTip": "Templates\\BankAccount.cpp",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-06T02:26:18.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "VectorEx2.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Templates\\Templates\\VectorEx2.cpp",
               "RelativeDocumentMoniker": "Templates\\VectorEx2.cpp",
@@ -55,12 +106,11 @@
               "RelativeToolTip": "Templates\\VectorEx2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-06T02:01:14.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T02:01:14.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "VectorEx1.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Templates\\Templates\\VectorEx1.cpp",
               "RelativeDocumentMoniker": "Templates\\VectorEx1.cpp",
@@ -72,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "TemplateEx2.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Templates\\Templates\\TemplateEx2.cpp",
               "RelativeDocumentMoniker": "Templates\\TemplateEx2.cpp",
@@ -84,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "TemplateEx1.cpp",
               "DocumentMoniker": "C:\\cplusworks\\Templates\\Templates\\TemplateEx1.cpp",
               "RelativeDocumentMoniker": "Templates\\TemplateEx1.cpp",
