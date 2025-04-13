@@ -128,6 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CarTest.cpp" />
+    <ClCompile Include="MultipleInheritance.cpp" />
+    <ClCompile Include="PolymorphismEx1.cpp" />
     <ClCompile Include="SaleStatement.cpp" />
     <ClCompile Include="StudentTest.cpp" />
     <ClCompile Include="StudentTest2.cpp" />
